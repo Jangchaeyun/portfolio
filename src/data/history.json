@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Full-Stack",
+    "organisation": "S.O.S",
+    "startDate": "2023/05/24",
+    "endDate": "2023/06/09",
+    "experience": ["관리자 로그인 / 카카오 로그인", "채팅방 및 채팅창 구현"],
+    "imageSrc": "history/s.o.s.png"
+  },
+  {
+    "role": "Full-Stack",
+    "organisation": "FundingMate",
+    "startDate": "2023/06/16",
+    "endDate": "2023/07/27",
+    "experience": [
+      "리워드 메인(Front & Back)",
+      "리워드 상세 페이지(Front & Back)",
+      "투자 메인(Front)",
+      "투자 상세 페이지(Front)"
+    ],
+    "imageSrc": "history/fundingmate.png"
+  }
+]

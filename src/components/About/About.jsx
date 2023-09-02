@@ -18,8 +18,8 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                디자이너, 개발자 분들, 고객분들과의 소통에서 저의 소통 능력을
-                통하여 실력 있는 웹 개발자가 되고 싶습니다.
+                화사 사람들과의 끊임없이 원활한 소통을 통해 내 실력을 끌어올려
+                실력 있는 웹 개발자가 되고자 합니다.
               </p>
             </div>
           </li>
