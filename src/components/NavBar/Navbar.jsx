@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import styles from "./navbar.module.css";
+import { useState } from "react";
+import styles from "./Navbar.module.css";
 import { getImageUrl } from "../../utils.js";
 
 const Navbar = () => {
@@ -24,7 +24,7 @@ const Navbar = () => {
           <li>
             <a href="#about">About</a>
           </li>
-          
+
           <li>
             <a href="#experice">Experice</a>
           </li>
